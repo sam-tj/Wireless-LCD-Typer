@@ -1,6 +1,7 @@
 # Wireless-LCD-Typer
 
 Sample Video here https://www.youtube.com/watch?v=YgCQsck2oHs 
+Further Guide https://www.hackster.io/Linda_TJ/wireless-lcd-typer-8d0dfe
 
 [![PIC1](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/sample-image-1.jpg)](https://www.youtube.com/watch?v=YgCQsck2oHs )
 
