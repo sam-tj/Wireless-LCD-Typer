@@ -2,7 +2,7 @@
 
 [![PIC1](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/sample-image-1.jpg)](https://www.youtube.com/watch?v=DyQfBuWmfJw )
 
-[![PIC2](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/interface.jpg)](http://www.youtube.com/watch?v=DfONEzf3ouE)
+[![PIC2](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/interface.jpg)]
 
 Wireless LCD Typer displays text entered on webpage directly to LCD. 
 
