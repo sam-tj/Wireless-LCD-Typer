@@ -1,6 +1,6 @@
 # Wireless-LCD-Typer
 
-[![PIC1](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/sample-image-1.jpg)](https://www.youtube.com/watch?v=DyQfBuWmfJw )
+[![PIC1](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/sample-image-1.jpg)](https://www.youtube.com/watch?v=YgCQsck2oHs )
 
 [![PIC2](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/interface.jpg)]
 
