@@ -6,7 +6,9 @@ Further Guide https://www.hackster.io/Linda_TJ/wireless-lcd-typer-8d0dfe
 
 [![PIC1](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/sample-image-1.jpg)](https://www.youtube.com/watch?v=YgCQsck2oHs )
 
-[![PIC2](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/interface.jpg)]
+***
+
+![PIC2](https://raw.githubusercontent.com/sam-tj/Wireless-LCD-Typer/main/interface.jpg)
 
 Wireless LCD Typer displays text entered on webpage directly to LCD. 
 
